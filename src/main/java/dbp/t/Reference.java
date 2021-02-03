@@ -1,4 +1,4 @@
-package com.github.basdxz.examplemod;
+package dbp.t;
 
 public final class Reference {
     //The values are filled by the ForgeGradle 1.2 replace method.
